@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACd,OAGC,SAAU,CACV,cAAe","file":"main.bfb83365.chunk.css","sourcesContent":[".App {\n  padding: 10px;\n}\n\n.alert {\n  color: red;\n  font-size: 14px;\n}\n"]}
